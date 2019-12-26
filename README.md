@@ -1,2 +1,3 @@
-# unet-self-anomaly
-use unet&amp;self-supervised
+# unet-rotation_anomaly
+
+use u-net rotation
